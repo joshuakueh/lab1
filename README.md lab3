@@ -1,0 +1,18 @@
+# Notes
+- Essentials for HTML page includes Head(title, script, style, link, meta)
+- meta is often used for search engine optimization and responsive webpage 
+- Internal JS should be minimised and is often injected by frontend framework(ReactJS)
+- Basic tags for Heading, paragraph, link, image, line break etc.
+- The "submit" button in HTML calls the form handler to trigger an action.
+- The "password" type in HTML will render any character with “***”.
+# Reflection
+I have learned what an HTML page is and its essentials such as the title, script etc. I have also learned the syntax for basic tags such as the heading, paragraph, link and many more.
+I have also learned how to use CSS and Bootleg.
+# Solutions for lab Activity
+1. HTML stands for Hyper Text Markup Language and it is the basic building block for a webpage and its contents. HTML tags are particular words or letters enclosed by angle brackets used to indicate the beginning and end of an HTML element in an HTML document.
+2. There are 6 levels of heading in HTML, with H6 being the least important and H1 being the most important.
+3. .
+4. An HTML comment begins with "<!––" and the comment closes with "––>".
+5. Element selector, ID selector and Class selector.
+6. In CSS, padding is the space between an elements border and an elements content while marging is just the space between an elements border.
+7. .
